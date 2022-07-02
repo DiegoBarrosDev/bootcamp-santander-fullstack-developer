@@ -1,0 +1,13 @@
+
+
+.imagem-container {
+    position: relative;
+    top: 15px;
+    left: -475px;
+}
+
+.imagem-1 {
+    display: block;
+    width: 245px;
+    max-height: 435px;
+}
